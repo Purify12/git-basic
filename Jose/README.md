@@ -1,1 +1,2 @@
-Hallo Perkenalkan namaku adalahJose Situmorang
+Hallo Perkenalkan namaku Jose Situmorang
+Ini adalah update pertama pada branch master
