@@ -1,5 +1,6 @@
-Ini adalah file CV
+Ini adalah file CV
 
 Perusahaan yang ingin dilamar:
 1. Gojek
-2.  Shoope
+2. Shoope
+3. Traveloka
