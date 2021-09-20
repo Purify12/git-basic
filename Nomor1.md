@@ -27,5 +27,7 @@ LANGKAH LANGKAH PENGERJAAN
 13. Commit dengan pesan "removing first.txt" : git commit -m "removing first.txt"
 ---
 14. Check commit : git log 
-<img src="SS9.PNG" alt="Screenshot"/>
+<img src="SS9.PNG" alt="Screenshot"/> 
+
+Kemudian simpan hasil ke github : git push origin master
 
