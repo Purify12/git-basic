@@ -1,7 +1,7 @@
 LANGKAH PENGERJAAN:
 ---
 1. Fork repository GitHub https://github.com/impactbyte/tech4impact-students-bio.git menggunakan akun Github saya
-<img src="" height="400" alt="Screenshot"/>
+<img src="SS3.jpeg" alt="Screenshot"/>
 
 2. Lakukan perintah : git clone https://github.com/Purify12/tech4impact-students-bio.git
 ---
@@ -12,7 +12,7 @@ LANGKAH PENGERJAAN:
 5. Lakukan peritaah : touch josesitumorang.md
 ---
 6. Lakukan perintah : nano josesitumorang. md, kemudian isi file, lalu tampilkan dengan : cat josesitumorang.md
-<img src="" height="400" alt="Screenshot"/>
+<img src="SS1.jpeg" alt="Screenshot"/>
 
 7. Lakukan perintah : git add josesitumorang.md
 ---
@@ -23,4 +23,4 @@ LANGKAH PENGERJAAN:
 10. Lakukan perintah : git push origin master
 ---
 11. Lakukan pull request dari GitHub Repository yang telah saya fork untuk digabungkan ke dalam branch master pada GitHub Repository aslinya
-<img src="" height="400" alt="Screenshot"/>
+<img src="SS2.jpeg" alt="Screenshot"/>
