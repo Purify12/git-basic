@@ -9,7 +9,9 @@ git merge melakukan penggabungan antra branch cabang ke branch master dengan men
 
 What is the difference between git stash pop and git stash apply. When would you use one over the other?
 ---
-
+1.git stash pop membuang simpanan (paling atas, secara default) setelah menerapkannya 
+2.git stash apply meninggalkannya di daftar simpanan untuk kemungkinan digunakan kembali nanti (atau Anda kemudian dapat git stash menjatuhkannya).
 
 What kinds of things can you do in interactive mode when rebasing?
 ---
+interactive (disingkat -i), akan membuka editor dengan daftar commit yang akan diubah. Daftar ini akan menerima perintah, memungkinkan pengguna untuk mengedit daftar sebelum memulai tindakan rebase.
